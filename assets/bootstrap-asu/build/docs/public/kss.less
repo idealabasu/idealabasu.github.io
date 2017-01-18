@@ -7,8 +7,8 @@
 @kss-colors-heading        : #111;
 @kss-colors-quotes         : #666;
 
-@kss-colors-link           : #0645ad;
-@kss-colors-link-visited   : #0645ad;
+@kss-colors-link           : #8c1d40;
+@kss-colors-link-visited   : #8c1d40;
 @kss-colors-link-hover     : lighten(@kss-colors-link, 20%);
 @kss-colors-link-active    : #faa700;
 
@@ -49,23 +49,23 @@
     margin: (@kss-vertical-rhythm/2) 0 @kss-vertical-rhythm 0;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1.ksss, h2.ksss, h3.ksss, h4.ksss, h5.ksss, h6.ksss {
     margin: @kss-vertical-rhythm 0 0 0;
     font-family: @kss-font-body;
     color: @kss-colors-heading;
     line-height: 1.15em;
   }
 
-  h4, h5, h6 {
+  h4.ksss, h5.ksss, h6.ksss {
     font-weight: bold;
   }
 
-  h1 { font-size: @kss-font-size * 2.5;   }
-  h2 { font-size: @kss-font-size * 2.25;  }
-  h3 { font-size: @kss-font-size * 2.125; }
-  h4 { font-size: @kss-font-size * 2;     }
-  h5 { font-size: @kss-font-size * 1.875; }
-  h6 { font-size: @kss-font-size * 1.75;  }
+  h1.ksss { font-size: @kss-font-size * 2.5;   }
+  h2.ksss { font-size: @kss-font-size * 2.25;  }
+  h3.ksss { font-size: @kss-font-size * 2.125; }
+  h4.ksss { font-size: @kss-font-size * 2;     }
+  h5.ksss { font-size: @kss-font-size * 1.875; }
+  h6.ksss { font-size: @kss-font-size * 1.75;  }
 
   blockquote {
     color: @kss-colors-quotes;
@@ -143,7 +143,7 @@
   }
 
   @media print {
-    a, a:visited { text-decoration: underline; }
+    // a, a:visited { text-decoration: underline; }
     hr { height: 1px; border:0; border-bottom:1px solid black; }
     a[href]:after { content: " (" attr(href) ")"; }
     a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
@@ -250,6 +250,7 @@
   .kss-nav__menu-item {
     display: inline-block;
     padding-right: @kss-vertical-rhythm;
+    text-decoration: none;
 
     @media screen and (min-width: 769px) {
       display: list-item;
@@ -358,10 +359,19 @@
   .kss-parameters__description {
     display: table-cell;
   }
+  .kss-parameters-box {
+    margin: 28px;
+    border: 1px solid gainsboro;
+    padding: 10px;
+  }
+  .kiss-style .kss-parameters-box h3 {
+    margin-top: 0;
+  }
 
   .kss-modifier__wrapper {
     border: 1px solid #ccc;
     padding: 10px;
+    margin: 0 30px;
   }
   .kss-modifier__heading {
     margin: -10px -10px 10px -10px;
@@ -393,7 +403,7 @@
   }
 
   .kss-markup {
-    margin: -1px 0 @kss-vertical-rhythm 0;
+    margin: -1px (@kss-vertical-rhythm + 6px) @kss-vertical-rhythm;
     border: 1px solid #999;
   }
   .kss-markup pre {
@@ -473,5 +483,19 @@
     li.L8 {
       background: #fcfcfc;
     }
+  }
+}
+
+.static-modal {
+  background-color: gray;
+
+  .modal {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    z-index: 1;
+    display: block;
   }
 }
