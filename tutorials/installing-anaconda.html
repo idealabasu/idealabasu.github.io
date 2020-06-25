@@ -267,12 +267,6 @@
         
           <li class="menu-item">
             
-              <a href="/publications" title="Publications">Publications</a>
-            
-          </li>
-        
-          <li class="menu-item">
-            
               <a href="/posters" title="Posters">Posters</a>
             
           </li>
@@ -284,6 +278,14 @@
           </li>
         
         </ul>
+      </li>
+    
+  
+    
+      <li class="menu-item">
+      
+        <a href="/publications" title="Publications">Publications</a>
+      
       </li>
     
   
@@ -334,12 +336,6 @@
         
           <li class="menu-item">
             
-              <a href="/news" title="Lab News">Lab News</a>
-            
-          </li>
-        
-          <li class="menu-item">
-            
               <a href="/research-opportunities" title="Research Opportunities">Research Opportunities</a>
             
           </li>
@@ -363,6 +359,14 @@
           </li>
         
         </ul>
+      </li>
+    
+  
+    
+      <li class="menu-item">
+      
+        <a href="/news" title="Lab News">Lab News</a>
+      
       </li>
     
   
@@ -408,60 +412,43 @@
 
       <div class="container">
   <h2 id="windows-installation">Windows Installation</h2>
-
 <h3 id="optional-prerequisites">Optional Prerequisites</h3>
-<ol>
-  <li>Install Virtualbox</li>
-  <li>
-    <p>Download Windows from <a href="https://webapp4.asu.edu/eacademy-sso/authn">dreamspark</a></p>
-  </li>
-  <li>Download and install <a href="https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe">Miniconda</a>
-    <ul>
-      <li>install for all users (if possible).</li>
-      <li>install in the c: directory, as in c:/Miniconda3/ or likewise</li>
-      <li>keep all other defaults</li>
-    </ul>
-  </li>
-  <li>Install packages:
-    <ul>
-      <li>open up cmd, and paste the following code(line by line):</li>
-    </ul>
-  </li>
+<ol type="1">
+<li>Install Virtualbox</li>
+<li><p>Download Windows from <a href="https://webapp4.asu.edu/eacademy-sso/authn">dreamspark</a></p></li>
+<li>Download and install <a href="https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe">Miniconda</a>
+<ul>
+<li>install for all users (if possible).</li>
+<li>install in the c: directory, as in c:/Miniconda3/ or likewise</li>
+<li>keep all other defaults</li>
+</ul></li>
+<li>Install packages:
+<ul>
+<li>open up cmd, and paste the following code(line by line):</li>
+</ul></li>
 </ol>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda update conda
+<pre><code>conda update conda
 conda install setuptools cython pyyaml numpy scipy spyder sympy pyopengl pyqt pyqtgraph matplotlib jupyter pillow lxml
 conda install -c conda-forge shapely
-pip install pypoly2tri ezdxf imageio meshio idealab_tools foldable_robotics pynamics pyqtgraph
-</code></pre></div></div>
-
+pip install pypoly2tri ezdxf imageio meshio idealab_tools foldable_robotics pynamics pyqtgraph</code></pre>
 <h2 id="ubuntu-installation">Ubuntu Installation</h2>
-
 <h3 id="install-anaconda">Install Anaconda</h3>
-<ol>
-  <li>Open a terminal window(ctrl+alt+T)</li>
-  <li>Paste the following code(line by line)</li>
+<ol type="1">
+<li>Open a terminal window(ctrl+alt+T)</li>
+<li>Paste the following code(line by line)</li>
 </ol>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
+<pre><code>wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh;
 bash miniconda.sh -b -p $HOME/miniconda
-export PATH="$HOME/miniconda/bin:$PATH"
-echo "export PATH="$HOME/miniconda/bin:$PATH"" &gt;&gt; ~/.bashrc
+export PATH=&quot;$HOME/miniconda/bin:$PATH&quot;
+echo &quot;export PATH=&quot;$HOME/miniconda/bin:$PATH&quot;&quot; &gt;&gt; ~/.bashrc
 conda update conda
 conda install setuptools cython pyyaml numpy scipy spyder sympy pyopengl pyqt pyqtgraph matplotlib jupyter pillow lxml
 conda install -c conda-forge shapely
-pip install pypoly2tri ezdxf imageio meshio idealab_tools foldable_robotics pynamics pyqtgraph
-</code></pre></div></div>
-
+pip install pypoly2tri ezdxf imageio meshio idealab_tools foldable_robotics pynamics pyqtgraph</code></pre>
 <h2 id="opening-jupyter-notebook">Opening Jupyter notebook</h2>
-
 <p>open up a command prompt or terminal and type</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter notebook
-</code></pre></div></div>
-
-<p>A browser with the jupyter interface should open.   Navigate to the file you want to run and select it.  It will open in a new tab and you can use the menu to learn how to run the entire file or one cell at a time.  Errors will be seen in each cell.</p>
-
+<pre><code>jupyter notebook</code></pre>
+<p>A browser with the jupyter interface should open. Navigate to the file you want to run and select it. It will open in a new tab and you can use the menu to learn how to run the entire file or one cell at a time. Errors will be seen in each cell.</p>
 <!--## Advanced: Creating a custom environment
 
 An environment is a nice way to sandbox your install from perhaps other python projects which need different, conflicting packages.  If you want more control over your installation, do this instead of the default way of installing packages in your root installation.  [Learn More](http://conda.pydata.org/docs/using/envs.html).
@@ -511,11 +498,10 @@ source activate main
 to use this environment.
 -->
 <h2 id="assignment">Assignment</h2>
-
-<ol>
-  <li>Install Anaconda using the instructions posted on blackboard</li>
-  <li>Download the jupyter notebook and fix it so that it can run</li>
-  <li>Upload the completed notebook to blackboard.</li>
+<ol type="1">
+<li>Install Anaconda using the instructions posted on blackboard</li>
+<li>Download the jupyter notebook and fix it so that it can run</li>
+<li>Upload the completed notebook to blackboard.</li>
 </ol>
 
 </div>
