@@ -4,3 +4,13 @@
   height: auto;
   display:block ;
 }
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  height: 100%;
+}
