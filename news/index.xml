@@ -5,40 +5,154 @@
     <link>https://idealab.asu.edu/news/</link>
     <description>Recent content in News on IDEAlab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://idealab.asu.edu/news/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://idealab.asu.edu/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2017-01-05-lab-meeting-agenda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Origami-Inspired Testing Platform Research Assistant</title>
+      <link>https://idealab.asu.edu/news/2021-04-01-summer-internship/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2017-01-05-lab-meeting-agenda/</guid>
-      <description>Topics  Wiki / CMS / Slack / collaboration tools reference management conference planning equipment and materials purchases computers documentation  Upcoming Training  laser cutter &amp;amp; laminates manufacturing python &amp;amp; codebase dynamics fea markdown, jekyll, &amp;amp; latex integration  misc lynda
-Presentation: Dan Lab Overview </description>
+      <guid>https://idealab.asu.edu/news/2021-04-01-summer-internship/</guid>
+      <description>We are seeking research assistants to work 10 hours per week in the IDEAlab on the Poly campus. This project will focus on developing a testing platform built on the Robotic Operating System (ROS) for testing various foldable robots with a number of different integrated hardware solutions. The project will require familiarity with Python, Linux, serial and ethernet-based communication protocols.
+The goal is that by the end of the summer, numerous systems will be communicating and controlled over a ROS-based network.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2017-02-11-the-origami-revolution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>New Paper on Hydrogels</title>
+      <link>https://idealab.asu.edu/news/2021-01-25-new-paper-on-hydrogels/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2017-02-11-the-origami-revolution/</guid>
-      <description>Prof. Aukes will be featured in The Origami Revolution, airing on PBS Feb 15!</description>
+      <guid>https://idealab.asu.edu/news/2021-01-25-new-paper-on-hydrogels/</guid>
+      <description>Congrats to Roozbeh Khodambashi and the rest of our research team for our new paper in Advanced Materials.
+https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202005906 https://fullcircle.asu.edu/research/behaving-like-animals/</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2017-02-17-night-of-the-open-door/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>IDEAlab featured in Full Circle</title>
+      <link>https://idealab.asu.edu/news/2020-10-15-idealab-featured-in-full-circle-copy/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2017-02-17-night-of-the-open-door/</guid>
-      <description> Night of the Open Door: Polytechnic Campus from Arizona State University on Vimeo.
- [ASU Now Link](https://asunow.asu.edu/20170219-sun-devil-life-asu-night-open-door-polytechnic-thunderbird-campuses?utm_campaign=SFMC_Now-022017_ASU%20Now&amp;utm_medium=email) </description>
+      <guid>https://idealab.asu.edu/news/2020-10-15-idealab-featured-in-full-circle-copy/</guid>
+      <description>Cole Brauer and Dr. Aukes were featured in a recent post on ASU&amp;rsquo;s Full Circle</description>
     </item>
     
     <item>
-      <title></title>
+      <title>ASU Receives 15 CAREER awards</title>
+      <link>https://idealab.asu.edu/news/2020-07-15-asu-receives-15-career-awards/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-07-15-asu-receives-15-career-awards/</guid>
+      <description>The IDEAlab is hiring for multiple positions in Wearable Robotics. See details here</description>
+    </item>
+    
+    <item>
+      <title>Congrats to Cole Brauer</title>
+      <link>https://idealab.asu.edu/news/2020-03-24-congrats-to-cole-brauer/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-03-24-congrats-to-cole-brauer/</guid>
+      <description>Congrats to Cole Brauer, the recipient of the Dean&amp;rsquo;s Fellowship, and the newest of the IDEAlab&amp;rsquo;s PhD researchers!</description>
+    </item>
+    
+    <item>
+      <title>Professor Aukes Featured</title>
+      <link>https://idealab.asu.edu/news/2020-03-19-professor-aukes-featured/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-03-19-professor-aukes-featured/</guid>
+      <description>Professor Aukes has been featured in Full Circle for the recent news regarding his Career Award!
+Press, Projects</description>
+    </item>
+    
+    <item>
+      <title>SWRS 2020 Cancelled</title>
+      <link>https://idealab.asu.edu/news/2020-03-15-swrs-2020-cancelled/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-03-15-swrs-2020-cancelled/</guid>
+      <description>We are sorry to say that the SWRS 2020 is cancelled. Check here for more information as it unfolds</description>
+    </item>
+    
+    <item>
+      <title>Symposium on Computational Fabrication</title>
+      <link>https://idealab.asu.edu/news/2020-03-04-symposium-on-computational-fabrication/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-03-04-symposium-on-computational-fabrication/</guid>
+      <description>Consider submitting to the Symposium on Computational Fabrication. Deadline April 10
+https://scf.acm.org</description>
+    </item>
+    
+    <item>
+      <title>New NSF Program in Robotics</title>
+      <link>https://idealab.asu.edu/news/2020-02-28-new-nsf-program-on-robotics/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-02-28-new-nsf-program-on-robotics/</guid>
+      <description>We are excited about the new Foundational Robotics program at NSF with regard to robotics!
+link</description>
+    </item>
+    
+    <item>
+      <title>Foldable Robotics Fall 2020</title>
+      <link>https://idealab.asu.edu/news/2020-02-25-foldable-robotics-fall-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-02-25-foldable-robotics-fall-2020/</guid>
+      <description>Foldable Robotics will be taught in Fall 2020! More info here as it develops</description>
+    </item>
+    
+    <item>
+      <title>Southwest Robotics Symposium 2020</title>
+      <link>https://idealab.asu.edu/news/2020-02-21-southwest-robotics-symposium-2020/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2020-02-21-southwest-robotics-symposium-2020/</guid>
+      <description>We are excited to be a part of the 2020 Southwest Robotics Symposium Please consider submitting a poster or attending April 2-3 in Mesa, AZ!</description>
+    </item>
+    
+    <item>
+      <title>Foldable Robotics</title>
+      <link>https://idealab.asu.edu/news/2019-12-16-foldable-robotics-iii/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2019-12-16-foldable-robotics-iii/</guid>
+      <description>Please visit back for details soon.</description>
+    </item>
+    
+    <item>
+      <title>Travel Funding Options for Students</title>
+      <link>https://idealab.asu.edu/news/2019-04-20-travel-funding-options-for-students/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2019-04-20-travel-funding-options-for-students/</guid>
+      <description>Here is the graduate student travel funding request form/information.
+   Resource Link Details     Graduate &amp;amp; Professional Student Association (GPSA) link For graduate students.   Travel Grant Program link Undergraduates   Barrett Honors College N/A Visit Barrett   FURI link For students who participated in FURI   Graduate College link For Graduate Students   KEEN Student Mini Grants link    Poly Form Email form to amy.</description>
+    </item>
+    
+    <item>
+      <title>EGR598:Foldable Robotics</title>
+      <link>https://idealab.asu.edu/news/2017-10-23-foldable-robotics-2018/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2017-10-23-foldable-robotics-2018/</guid>
+      <description>Professor Aukes will be teaching an EGR598 class this Spring called Foldable Robotics.
+Description Foldable Robotics is a class which comes from a new class of active robotic devices being developed in research labs across the country. These devices are designed and built using flat sheets of a wide variety of materials, and folded up to create both form and motion. This class studies these devices from initial prototype and design through implementation and optimization, with a focus on application-specific projects which seek to solve problems of cost, parallelism, complexity, and time with a relatively fast and easy prototyping method.</description>
+    </item>
+    
+    <item>
+      <title>Keen Professorship</title>
+      <link>https://idealab.asu.edu/news/2017-05-16-keen-professorship/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://idealab.asu.edu/news/2017-05-16-keen-professorship/</guid>
+      <description>Dr. Aukes has been named a 2017 Keen Professor! This award, presented by the Kern Foundation, is given faculty members who propose novel ideas in teaching with an entrepreneurial focus.</description>
+    </item>
+    
+    <item>
+      <title>Two Papers Accepted!</title>
       <link>https://idealab.asu.edu/news/2017-05-01-two-papers-accepted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://idealab.asu.edu/news/2017-05-01-two-papers-accepted/</guid>
       <description>We have had two papers recently accepted!
@@ -47,141 +161,38 @@ Presentation: Dan Lab Overview </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2017-05-16-keen-professorship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Night of the Open Door</title>
+      <link>https://idealab.asu.edu/news/2017-02-17-night-of-the-open-door/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2017-05-16-keen-professorship/</guid>
-      <description>Dr. Aukes has been named a 2017 Keen Professor! This award, presented by the Kern Foundation, is given faculty members who propose novel ideas in teaching with an entrepreneurial focus.</description>
+      <guid>https://idealab.asu.edu/news/2017-02-17-night-of-the-open-door/</guid>
+      <description> Night of the Open Door: Polytechnic Campus from Arizona State University on Vimeo.
+ [ASU Now Link](https://asunow.asu.edu/20170219-sun-devil-life-asu-night-open-door-polytechnic-thunderbird-campuses?utm_campaign=SFMC_Now-022017_ASU%20Now&amp;utm_medium=email) </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2019-04-20-travel-funding-options-for-students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>The Origami Revolution</title>
+      <link>https://idealab.asu.edu/news/2017-02-11-the-origami-revolution/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2019-04-20-travel-funding-options-for-students/</guid>
-      <description>Here is the graduate student travel funding request form/information.
-   Resource Link Details     Graduate &amp;amp; Professional Student Association (GPSA) link For graduate students.   Travel Grant Program link Undergraduates   Barrett Honors College N/A Visit Barrett   FURI link For students who participated in FURI   Graduate College link For Graduate Students   KEEN Student Mini Grants link    Poly Form Email form to amy.</description>
+      <guid>https://idealab.asu.edu/news/2017-02-11-the-origami-revolution/</guid>
+      <description>Prof. Aukes will be featured in The Origami Revolution, airing on PBS Feb 15!</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-02-21-southwest-robotics-symposium-2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Lab Meeting Agenda</title>
+      <link>https://idealab.asu.edu/news/2017-01-05-lab-meeting-agenda/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2020-02-21-southwest-robotics-symposium-2020/</guid>
-      <description>We are excited to be a part of the 2020 Southwest Robotics Symposium Please consider submitting a poster or attending April 2-3 in Mesa, AZ!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-02-25-foldable-robotics-fall-2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-02-25-foldable-robotics-fall-2020/</guid>
-      <description>Foldable Robotics will be taught in Fall 2020! More info here as it develops</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-03-04-symposium-on-computational-fabrication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-03-04-symposium-on-computational-fabrication/</guid>
-      <description>Consider submitting to the Symposium on Computational Fabrication. Deadline April 10
-https://scf.acm.org</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-03-19-professor-aukes-featured/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-03-19-professor-aukes-featured/</guid>
-      <description>Professor Aukes has been featured in Full Circle for the recent news regarding his Career Award!
-Press, Projects</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-03-24-congrats-to-cole-brauer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-03-24-congrats-to-cole-brauer/</guid>
-      <description>Congrats to Cole Brauer, the recipient of the Dean&amp;rsquo;s Fellowship, and the newest of the IDEAlab&amp;rsquo;s PhD researchers!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2020-10-15-idealab-featured-in-full-circle-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-10-15-idealab-featured-in-full-circle-copy/</guid>
-      <description>Cole Brauer and Dr. Aukes were featured in a recent post on ASU&amp;rsquo;s Full Circle</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idealab.asu.edu/news/2021-01-25-new-paper-on-hydrogels/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2021-01-25-new-paper-on-hydrogels/</guid>
-      <description>Congrats to Roozbeh Khodambashi and the rest of our research team for our new paper in Advanced Materials.
-https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202005906 https://fullcircle.asu.edu/research/behaving-like-animals/</description>
-    </item>
-    
-    <item>
-      <title>ASU Receives 15 CAREER awards</title>
-      <link>https://idealab.asu.edu/news/2020-07-15-asu-receives-15-career-awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-07-15-asu-receives-15-career-awards/</guid>
-      <description>The IDEAlab is hiring for multiple positions in Wearable Robotics. See details here</description>
-    </item>
-    
-    <item>
-      <title>EGR598:Foldable Robotics</title>
-      <link>https://idealab.asu.edu/news/2017-10-23-foldable-robotics-2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2017-10-23-foldable-robotics-2018/</guid>
-      <description>Professor Aukes will be teaching an EGR598 class this Spring called Foldable Robotics.
-Description Foldable Robotics is a class which comes from a new class of active robotic devices being developed in research labs across the country. These devices are designed and built using flat sheets of a wide variety of materials, and folded up to create both form and motion. This class studies these devices from initial prototype and design through implementation and optimization, with a focus on application-specific projects which seek to solve problems of cost, parallelism, complexity, and time with a relatively fast and easy prototyping method.</description>
-    </item>
-    
-    <item>
-      <title>Foldable Robotics</title>
-      <link>https://idealab.asu.edu/news/2016-03-10-foldable-robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2016-03-10-foldable-robotics/</guid>
-      <description>Professor Aukes will be teaching a new EGR598 class this fall called Foldable Robotics.
-Description Foldable Robotics is a class which comes from a new class of active robotic devices being developed in research labs across the country. These devices are designed and built using flat sheets of a wide variety of materials, and folded up to create both form and motion. This class studies these devices from initial prototype and design through implementation and optimization, with a focus on application-specific projects which seek to solve problems of cost, parallelism, complexity, and time with a relatively fast and easy prototyping method.</description>
-    </item>
-    
-    <item>
-      <title>Foldable Robotics</title>
-      <link>https://idealab.asu.edu/news/2019-12-16-foldable-robotics-iii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2019-12-16-foldable-robotics-iii/</guid>
-      <description>Please visit back for details soon.</description>
-    </item>
-    
-    <item>
-      <title>IDEAlab at ICRA</title>
-      <link>https://idealab.asu.edu/news/2016-03-21-icra-presence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2016-03-21-icra-presence/</guid>
-      <description>Professor Aukes will be at ICRA, May 16-20. He will be available to consult with anyone interested in using popupCAD and/or building laminate devices. You can email him at danaukes-at-asu.edu to schedule an appointment.</description>
+      <guid>https://idealab.asu.edu/news/2017-01-05-lab-meeting-agenda/</guid>
+      <description>Topics  Wiki / CMS / Slack / collaboration tools reference management conference planning equipment and materials purchases computers documentation  Upcoming Training  laser cutter &amp;amp; laminates manufacturing python &amp;amp; codebase dynamics fea markdown, jekyll, &amp;amp; latex integration  misc lynda
+Presentation: Dan Lab Overview </description>
     </item>
     
     <item>
       <title>IDEAlab at IROS</title>
       <link>https://idealab.asu.edu/news/2016-10-15-iros-presence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://idealab.asu.edu/news/2016-10-15-iros-presence/</guid>
       <description>Professor Aukes gave a talk at the &amp;ldquo;Folding in Robotics&amp;rdquo; workshop at IROS.</description>
@@ -190,39 +201,29 @@ Description Foldable Robotics is a class which comes from a new class of active 
     <item>
       <title>National Robotics Week at Poly</title>
       <link>https://idealab.asu.edu/news/2016-04-01-national-robotics-week/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://idealab.asu.edu/news/2016-04-01-national-robotics-week/</guid>
       <description>The robotics group at The Polytechnic School just hosted several busloads of kids during their annual DiscoverE day on campus, as well as a public open house on Friday, April 1 2016. Thanks to all for coming!</description>
     </item>
     
     <item>
-      <title>New NSF Program in Robotics</title>
-      <link>https://idealab.asu.edu/news/2020-02-28-new-nsf-program-on-robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>IDEAlab at ICRA</title>
+      <link>https://idealab.asu.edu/news/2016-03-21-icra-presence/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2020-02-28-new-nsf-program-on-robotics/</guid>
-      <description>We are excited about the new Foundational Robotics program at NSF with regard to robotics!
-link</description>
+      <guid>https://idealab.asu.edu/news/2016-03-21-icra-presence/</guid>
+      <description>Professor Aukes will be at ICRA, May 16-20. He will be available to consult with anyone interested in using popupCAD and/or building laminate devices. You can email him at danaukes-at-asu.edu to schedule an appointment.</description>
     </item>
     
     <item>
-      <title>Origami-Inspired Testing Platform Research Assistant</title>
-      <link>https://idealab.asu.edu/news/2021-04-01-summer-internship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Foldable Robotics</title>
+      <link>https://idealab.asu.edu/news/2016-03-10-foldable-robotics/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://idealab.asu.edu/news/2021-04-01-summer-internship/</guid>
-      <description>We are seeking research assistants to work 10 hours per week in the IDEAlab on the Poly campus. This project will focus on developing a testing platform built on the Robotic Operating System (ROS) for testing various foldable robots with a number of different integrated hardware solutions. The project will require familiarity with Python, Linux, serial and ethernet-based communication protocols.
-The goal is that by the end of the summer, numerous systems will be communicating and controlled over a ROS-based network.</description>
-    </item>
-    
-    <item>
-      <title>SWRS 2020 Cancelled</title>
-      <link>https://idealab.asu.edu/news/2020-03-15-swrs-2020-cancelled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idealab.asu.edu/news/2020-03-15-swrs-2020-cancelled/</guid>
-      <description>We are sorry to say that the SWRS 2020 is cancelled. Check here for more information as it unfolds</description>
+      <guid>https://idealab.asu.edu/news/2016-03-10-foldable-robotics/</guid>
+      <description>Professor Aukes will be teaching a new EGR598 class this fall called Foldable Robotics.
+Description Foldable Robotics is a class which comes from a new class of active robotic devices being developed in research labs across the country. These devices are designed and built using flat sheets of a wide variety of materials, and folded up to create both form and motion. This class studies these devices from initial prototype and design through implementation and optimization, with a focus on application-specific projects which seek to solve problems of cost, parallelism, complexity, and time with a relatively fast and easy prototyping method.</description>
     </item>
     
   </channel>
