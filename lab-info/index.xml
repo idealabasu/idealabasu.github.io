@@ -1,14 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lab Info on IDEAlab</title><link>https://idealab.asu.edu/lab-info/</link><description>Recent content in Lab Info on IDEAlab</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://idealab.asu.edu/lab-info/index.xml" rel="self" type="application/rss+xml"/><item><title>Calendar</title><link>https://idealab.asu.edu/lab-info/calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/calendar/</guid><description>Schedule an appointment
-Check out Dr. Aukes&amp;rsquo; calendar</description></item><item><title>Contact and Location</title><link>https://idealab.asu.edu/lab-info/contact-and-location/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/contact-and-location/</guid><description>Contact Please send all inquiries to danaukes@asu.edu
-Locations Office Santa Catalina, Room 331C
-7271 E Sonoran Arroyo Mall
-Mesa, AZ 85212 Lab Technology Center, Room 180
-6075 Innovation Way West
-Mesa, AZ 85212 Map</description></item><item><title>Downloads</title><link>https://idealab.asu.edu/lab-info/download/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/download/</guid><description> Item CAD Controller Quadruped link link</description></item><item><title>Equipment and Facilities</title><link>https://idealab.asu.edu/lab-info/equipment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/equipment/</guid><description>The IDEAlab at Arizona State University&amp;rsquo;s Polytechnic School has a wide variety of equipment available for designing, prototyping, modeling, analyzing, simulating, and testing a variety of robotic devices made using less-traditional materials.
-Prototyping laminate robotic devices involves several planar processes which are available within the lab, including cutting, alignment, and lamination. We are capable of cutting a variety of flat, rolled, or sheet materials on either a Vinyl Express R31 Vinyl Cutter or an Epilog Fusion M2 CO2/Fiber Laser Cutter with a 28&amp;quot; x 40&amp;quot; bed.</description></item><item><title>Hiring</title><link>https://idealab.asu.edu/lab-info/hiring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/hiring/</guid><description>We are currently not hiring at this time.</description></item><item><title>Lab Meeting Schedule</title><link>https://idealab.asu.edu/lab-info/meeting-schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/meeting-schedule/</guid><description/></item><item><title>Professor Aukes' Calendar</title><link>https://idealab.asu.edu/lab-info/aukes_calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/aukes_calendar/</guid><description/></item><item><title>Research Opportunities</title><link>https://idealab.asu.edu/lab-info/research-opportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/research-opportunities/</guid><description>The IDEAlab at ASU is always looking for researchers in the field of robotics, design, and manufacturing. Get involved by coming to lab meetings and assisting on one of our existing projects.
-PhD Research Please see our hiring page for current openings
-Masters Research The IDEAlab doe not generally fund masters research, but there are opportunities to complete course credit or apply for external funding through the IDEAlab
-MORE The MORE Initiative is a unique opportunity to get involved in research during your masters experience, and get a small stipend to do so.</description></item><item><title>Seminar</title><link>https://idealab.asu.edu/lab-info/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/seminar/</guid><description>We are announcing a new workshop series aimed at graduate students looking to improve their technical proficiency in the field of robotics for research and industry, as well as to get to know their fellow RAS students a little better.
-Stop by (in-person) next Friday, Oct 4 for the first session. Details and RSVP link are below, poster is attached.
-Friday, October 4 Polytechnic Campus Peralta 135 1-2pm
-for any questions, please contact me, danaukes@asu.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lab Info on IDEAlab</title><link>https://idealab.asu.edu/lab-info/</link><description>Recent content in Lab Info on IDEAlab</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://idealab.asu.edu/lab-info/index.xml" rel="self" type="application/rss+xml"/><item><title>Calendar</title><link>https://idealab.asu.edu/lab-info/calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/calendar/</guid><description>&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;ctz=America%2FPhoenix&amp;amp;src=YXN1LmVkdV9iaTV0MDVvbTg0amx0NDN1cGhmc2RscHRwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;amp;src=aDA0NTc4YXUxZzhuYnRpcDk4anNwMXZlbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;amp;src=YXN1LmVkdV84aTlhZHVxdmI4YjhsaHFvaW1xMWZiazAyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;amp;color=%23795548&amp;amp;color=%237CB342&amp;amp;color=%238E24AA&amp;amp;color=%230B8043&amp;amp;mode=WEEK&amp;amp;showTitle=0&amp;amp;showNav=1&amp;amp;showPrint=0" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no">&lt;/iframe>
+&lt;p>&lt;a href="https://calendar.google.com/calendar/selfsched?sstoken=UUczUW5BTnJwQlktfGRlZmF1bHR8MWJkYjgxMDFjOTYxZTRjODNkNjZjODMwOTY0MGUwNDE">Schedule an appointment&lt;/a>&lt;/p>
+&lt;!--Add yourself to the [IDEAlab-info](https://groups.google.com/forum/#!forum/idealab-info) listserv to stay up to date on meeting times and location changes.-->
+&lt;p>Check out Dr. Aukes&amp;rsquo; &lt;a href="https://idealab.asu.edu/lab-info/aukes_calendar/">calendar&lt;/a>&lt;/p></description></item><item><title>Contact and Location</title><link>https://idealab.asu.edu/lab-info/contact-and-location/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/contact-and-location/</guid><description>&lt;h2 id="contact">Contact&lt;/h2>
+&lt;p>Please send all inquiries to &lt;a href="mailto:danaukes@asu.edu">danaukes@asu.edu&lt;/a>&lt;/p>
+&lt;div class="row">
+&lt;div class="col-md-4">
+&lt;h2>Locations&lt;/h2>
+&lt;h3>Office&lt;/h3>
+&lt;p>
+Santa Catalina, Room 331C&lt;br>
+7271 E Sonoran Arroyo Mall&lt;br>
+Mesa, AZ 85212
+&lt;/p>
+&lt;h3>Lab&lt;/h3>
+&lt;p>
+Technology Center, Room 180&lt;br>
+6075 Innovation Way West&lt;br>
+Mesa, AZ 85212
+&lt;/p>
+&lt;/div>
+&lt;div class="col-md-8">
+&lt;h2>Map&lt;/h2>
+&lt;div class="embed-responsive embed-responsive-16by9">
+&lt;iframe src="https://www.google.com/maps/d/u/0/embed?mid=1c0SlwOpM4YpWklAyhv0seTeWpaaLkBI&amp;ehbc=2E312F" width="640" height="480">&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Downloads</title><link>https://idealab.asu.edu/lab-info/download/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/download/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Item&lt;/th>
+ &lt;th style="text-align: left">CAD&lt;/th>
+ &lt;th style="text-align: left">Controller&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Quadruped&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="">link&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="">link&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Equipment and Facilities</title><link>https://idealab.asu.edu/lab-info/equipment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/equipment/</guid><description>&lt;p>The IDEAlab at Arizona State University&amp;rsquo;s Polytechnic School has a wide variety of equipment available for designing, prototyping, modeling, analyzing, simulating, and testing a variety of robotic devices made using less-traditional materials.&lt;/p>
+&lt;p>Prototyping laminate robotic devices involves several planar processes which are available within the lab, including cutting, alignment, and lamination. We are capable of cutting a variety of flat, rolled, or sheet materials on either a Vinyl Express R31 Vinyl Cutter or an Epilog Fusion M2 CO2/Fiber Laser Cutter with a 28&amp;quot; x 40&amp;quot; bed. Lamination is made possible via a ProMount Plus 2700 27&amp;quot; Heated Roll Mounting Laminator, a 16&amp;quot; X 24&amp;quot; Giantex Digital Clamshell Heat Press, a wide-frame, floor mounted impulse sealer, and a small craft iron for detailed work. Larger format materials can be cut out on a 4&amp;rsquo; x 8&amp;rsquo; ShopBot Router located in the Polytechnic Schools&amp;rsquo; Innovation Hub.&lt;/p></description></item><item><title>Hiring</title><link>https://idealab.asu.edu/lab-info/hiring/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/hiring/</guid><description>&lt;p>We are currently not hiring at this time.&lt;/p></description></item><item><title>Lab Meeting Schedule</title><link>https://idealab.asu.edu/lab-info/meeting-schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/meeting-schedule/</guid><description>&lt;iframe width="100%" height="600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsWjRYwN4B5g0DcBZdQ4oqBRIyTpDRmRPIZOyZWbqXxxWB6aPa0Dp6kqyMtDD5q1TMMcd4S4oB7V1N/pubhtml?gid=0&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false">&lt;/iframe></description></item><item><title>Professor Aukes' Calendar</title><link>https://idealab.asu.edu/lab-info/aukes_calendar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/aukes_calendar/</guid><description>&lt;div class="embed-responsive embed-responsive-16by9">
+&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FPhoenix&amp;showTitle=0&amp;showPrint=0&amp;mode=WEEK&amp;showCalendars=0&amp;src=ZGFuYXVrZXNAZ21haWwuY29t&amp;src=bTBmaGZicTkxZmpsYjdwMHBkZGQ2bjFnc2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YXN1LmVkdV9iaTV0MDVvbTg0amx0NDN1cGhmc2RscHRwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=OGkxM2k1ZnZmNGVsaGR2Z3U5dDA5Y2piZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dGpqYXRwMWJsZTVoMzk3Y2VjY3JnYW1jYjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZGF1a2VzQGFzdS5lZHU&amp;color=%23F09300&amp;color=%234285F4&amp;color=%23795548&amp;color=%23D50000&amp;color=%23C0CA33&amp;color=%23F09300" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no">&lt;/iframe>&lt;/div></description></item><item><title>Research Opportunities</title><link>https://idealab.asu.edu/lab-info/research-opportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/research-opportunities/</guid><description>&lt;p>The IDEAlab at ASU is always looking for researchers in the field of robotics, design, and manufacturing. Get involved by coming to lab meetings and assisting on one of our existing projects.&lt;/p>
+&lt;h2 id="phd-research">PhD Research&lt;/h2>
+&lt;p>Please see our &lt;a href="%7B%7Bsite.base_path%7D%7D/hiring">hiring&lt;/a> page for current openings&lt;/p>
+&lt;h2 id="masters-research">Masters Research&lt;/h2>
+&lt;blockquote>
+&lt;p>The IDEAlab doe not generally fund masters research, but there are opportunities to complete course credit or apply for external funding through the IDEAlab&lt;/p>&lt;/blockquote>
+&lt;h3 id="more">MORE&lt;/h3>
+&lt;p>The MORE Initiative is a unique opportunity to get involved in research during your masters experience, &lt;em>and get a small stipend to do so.&lt;/em>. In general, planning for your application involves identifying a research topic of interest, speaking with Dr. Aukes to ensure it fits within the scope of the IDEAlab, and coming up with the deliverables required by the FURI program. &lt;em>Please see Dr. Aukes at the beginning of the semester in order to plan your MORE application.&lt;/em>&lt;/p></description></item><item><title>Seminar</title><link>https://idealab.asu.edu/lab-info/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://idealab.asu.edu/lab-info/seminar/</guid><description>&lt;p>We are announcing a new workshop series aimed at graduate students looking to improve their technical proficiency in the field of robotics for research and industry, as well as to get to know their fellow RAS students a little better.&lt;/p>
+&lt;p>Stop by (in-person) next Friday, Oct 4 for the first session. Details and RSVP link are below, poster is attached.&lt;/p>
+&lt;p>Friday, October 4
+Polytechnic Campus
+Peralta 135
+1-2pm&lt;/p>
+&lt;p>for any questions, please contact me, &lt;a href="mailto:danaukes@asu.edu">danaukes@asu.edu&lt;/a>&lt;/p></description></item></channel></rss>
